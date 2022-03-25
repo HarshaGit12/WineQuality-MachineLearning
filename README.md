@@ -1,1 +1,1 @@
-# WineQualityTest-MachineLearning using RandomForest
+# WineQuality-MachineLearning using RandomForest
